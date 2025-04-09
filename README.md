@@ -18,5 +18,5 @@
 
 Download and install the `.deb` file:
 
-        Website: https://github.com/Gautam84891
+        Website: https://gautam84891.github.io/mass-file-organizer/
 
